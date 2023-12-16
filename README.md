@@ -25,3 +25,7 @@
   ```
 - Now the project is ready to use
 - You can check it using `npm start`, it will open the website locally on your browser.
+
+
+Credits of template to this portfolio goes to **[click here](https://github.com/ashutosh1919))**
+Repsitory Link- **[click here](https://ashutosh1919.github.io/)**
