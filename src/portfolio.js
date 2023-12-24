@@ -24,7 +24,7 @@ const greeting = {
   subTitle:
     "A Passionate individual dedicated to developing sustainable and scalable end-to-end products, creating impactful social and technical systems.",
   resumeLink:
-    "https://drive.google.com/file/d/1jko1phFTkmGyHXrOnmWOwmlI2m3szyIz/view?usp=sharing",
+    "https://drive.google.com/file/d/1QuA8i9d-aOHmIaiIKSKRLKv7X7eWuU3s/view?usp=sharing",
   portfolio_repository: "https://github.com/Ritwika-14/CoupEarn",
 };
 
